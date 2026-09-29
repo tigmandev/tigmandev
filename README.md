@@ -237,9 +237,9 @@ I particularly enjoy working on systems where architecture and reliability matte
 
 # 📫 Get in Touch
 
-* 💼 LinkedIn: `tigran-manukyan-348aa822a`
+* 💼 LinkedIn: `tigmandev`
 * ✉️ Email: `tigran.manukyan.2002@gmail.com`
-* 💬 Telegram: `@tig_man21`
+* 💬 Telegram: `@tigmandev`
 * 📍 Vanadzor, Armenia
 
 ---

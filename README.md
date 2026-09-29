@@ -2,9 +2,9 @@
 
 ### Senior Backend Developer | NestJS · Node.js · TypeScript · Microservices
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tigran-manukyan-348aa822a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tigmandev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:tigran.manukyan.2002@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat\&logo=telegram\&logoColor=white)](https://t.me/tig_man21)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat\&logo=telegram\&logoColor=white)](https://t.me/tigmandev)
 
 ---
 

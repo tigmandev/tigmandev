@@ -153,17 +153,6 @@ Mobile-first app for environments with unreliable internet: offline order queuei
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tigmandev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigmandev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A" alt="Top languages" />
-
-</div>
-
----
-
 <div align="center">
 
 **Building a product that needs a reliable backend, solid architecture or complex integrations?**
